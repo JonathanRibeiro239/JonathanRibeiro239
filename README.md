@@ -12,7 +12,7 @@
   ##
 
  <a href="https://github.com/JonathanRibeiro239">
-  <img height=18 align="center" src="https://github-readme-stats.vercel.app/api?username=JonathanRibeiro239" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=JonathanRibeiro239" />
 </a>
 <a href="https://github.com/JonathanRibeiro239">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonathanRibeiro239&layout=compact&langs_count=8&card_width=320" />
